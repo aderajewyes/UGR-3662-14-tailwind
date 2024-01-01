@@ -1113,46 +1113,46 @@ video {
   background-color: rgb(229 231 235 / var(--tw-bg-opacity));
 }
 .home--header{
-  background: url(/src/images/webDevelopment.jpeg);
+  background: url(./images/webDevelopment.jpeg);
 }
 .bcImage1{
-  background: url(/src/images/football.jpeg) no-repeat center;
+  background: url(./images/football.jpeg) no-repeat center;
 }
 .bcImage2{
-  background: url(/src/images/gaming.jpeg) no-repeat center;
+  background: url(./images/gaming.jpeg) no-repeat center;
 }
 .bcImage3{
   background: url(/src/images/techGadgets.jpeg) no-repeat center;
 }
 .bcImage4{
-  background: url(/src/images/fitnessAndWellness.jpeg) no-repeat center;
+  background: url(./images/fitnessAndWellness.jpeg) no-repeat center;
 }
 .bcImage5{
-  background: url(/src/images/movie.jpeg) no-repeat center;
+  background: url(./images/movie.jpeg) no-repeat center;
 }
 .bcImage6{
-  background: url(/src/images/reaading.jpeg) no-repeat center;
+  background: url(./images/reaading.jpeg) no-repeat center;
 }
 .bcImage7{
-  background: url(/src/images/travel.jpeg) no-repeat center;
+  background: url(./images/travel.jpeg) no-repeat center;
 }
 .bcImage8{
-  background: url(/images/volunter.png) no-repeat center;
+  background: url(./images/volunter.png) no-repeat center;
 }
 .bcImage9{
-  background: url(/src/images/webDevelopment.jpeg) no-repeat center;
+  background: url(./images/webDevelopment.jpeg) no-repeat center;
 }
 .bcImage10{
-  background: url(/src/images/music.jpeg) no-repeat center;
+  background: url(./images/music.jpeg) no-repeat center;
 }
 .bcImage11{
-  background: url(/src/images/art.jpeg) no-repeat center;
+  background: url(./images/art.jpeg) no-repeat center;
 }
 .bcImage12{
-  background: url(/src/images/graphicDesign.jpeg) no-repeat center;
+  background: url(./images/graphicDesign.jpeg) no-repeat center;
 }
 .skills--bcImage{
-  background: url(/src/images/webDevelopment.jpeg);
+  background: url(./images/webDevelopment.jpeg);
 }
 
 @media (min-width: 640px) {
